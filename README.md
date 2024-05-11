@@ -5,5 +5,6 @@ Unsupervised machine learning algorithms operate without the need for labeled da
 
 We will see in this project how this clusteting models works and which one clusters the flowers data closer to the real flowers.
 
-![Image Alt Text](https://miro.medium.com/v2/resize:fit:1200/1*KqWII7sFp1JL0EXwJGpqFw.png](https://media.geeksforgeeks.org/wp-content/uploads/PicsArt_11-17-08.07.10-300x300.jpg)
+![GeeksforGeeks Logo](https://media.geeksforgeeks.org/wp-content/uploads/PicsArt_11-17-08.07.10-300x300.jpg)
+
 
